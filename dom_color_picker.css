@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+.container_height{
+    height:100vh;
+}
+.color_card{
+    border:1px solid red;
+    width:450px;
+    height:380px;
+    padding:30px;
+}
+.input_style{
+    font-family:"Roboto";
+    width:400px;  
+    height:35px;
+    border:1px solid black;
+    border-radius:20px;
+    padding-left:15px;
+    padding:15px;
+    box-shadow: 0px 0px 10px 5px rgb(209, 208, 208);
+    outline:0;
+}
+h1{ 
+     font-family: "Amaranth", sans-serif;
+    font-weight: 600;
+}
+.btn_style{
+    height:45px;
+    width:135px;
+    outline:0;
+    border-radius:10px;
+    font-weight:bold;
+    border:1px solid red;
+    background-color:gray;
+}
+span{
+    font-weight:900;
+    font-size:20px;
+}
+.bg_color_black{
+    font-weight:500;
+    text-align: center;
+    font-size:18px;
+    color:black;
+    border:1px solid rgb(195, 245, 195);
+    background-color:rgb(172, 169, 169);
+    
+
+}
